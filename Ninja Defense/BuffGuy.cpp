@@ -32,7 +32,7 @@ buffenemy::buffenemy(Vector2f position, string buffFileloc, string deadFileLoc)
 	buffenemySprite.setPosition(Vector2f(position.x, position.y));
 	buffenemySprite.setTextureRect(buffRect[0]);
 	buffenemySprite.setTexture(buffTexture);
-	count = 0;
+	count = 1;
 
 	bufff = true;
 	dead = false;
