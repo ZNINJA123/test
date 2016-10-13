@@ -1,0 +1,5 @@
+Use the Left and Right Arrow Keys to move and the Up Arrow Key to jump
+
+Use Z to attack
+
+Open the Ninja Defense.exe to Play the game
